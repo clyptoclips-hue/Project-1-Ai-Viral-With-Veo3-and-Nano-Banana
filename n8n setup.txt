@@ -1,0 +1,48 @@
+### 🧩 Blotato Integration Setup
+
+#### ✅ Step 1 — Install the Blotato Community Node  
+- Go to your **n8n Admin Panel**  
+- Enable **Verified Community Nodes**  
+- Open any workflow and click the ➕ button to add a node  
+- Search for **Blotato**, then click **Install**  
+
+> ⚠️ If a template shows `???` instead of the Blotato logo:  
+Enable Verified Community Nodes **first**, install the Blotato node, and **re-import** the template.
+
+---
+
+#### 🔐 Step 2 — Create Your API Credential  
+1. In Blotato, go to **Settings > API**  
+2. Click **Generate API Key** and copy it  
+3. In n8n, open **Credentials > Blotato API**  
+4. Paste your API key, click **Save & Test**, then select this credential on all Blotato nodes  
+
+---
+
+#### 🌐 Step 3 — Connect Your Social Platforms  
+For each **Blotato Publish** node:  
+- Select your **Blotato Credential**  
+- Choose the platform: TikTok, Instagram, LinkedIn, Facebook, X (Twitter), YouTube Shorts, Threads, Pinterest, or Bluesky  
+- For **Pinterest**, you must enter a **Board ID**:  
+  - In Blotato, create a sample Pinterest post  
+  - Click **Publish**, choose your board  
+  - Copy the **Board ID** from the dropdown menu
+
+---
+
+#### 🧪 Step 4 — Safe Testing  
+When testing:  
+- **Deactivate all platform nodes**  
+- **Activate only one** (e.g., TikTok)  
+- Run the workflow once  
+- At the **Upload to Blotato** node, click **Pin Data** to lock the input  
+- Then manually **execute** one platform node to verify  
+- Once confirmed, activate the others and continue testing  
+
+---
+
+#### 📊 Step 5 — Monitor Requests in Blotato  
+Use the [**Blotato API Dashboard**](https://my.blotato.com/api-dashboard) to:  
+- Review each request  
+- Inspect payloads  
+- Check error messages if something goes wrong

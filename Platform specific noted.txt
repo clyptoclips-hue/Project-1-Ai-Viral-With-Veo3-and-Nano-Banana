@@ -1,0 +1,52 @@
+
+## Tiktok
+You can post images, videos, and slideshows. Your Tiktok account must be warmed up before using Blotato, otherwise you'll get low views. [Follow this warm up guide](https://help.blotato.com/platforms/tiktok/brand-new-accounts). 
+
+Check out best practices and troubleshooting FAQs:
+https://help.blotato.com/platforms/tiktok
+
+## Linkedin
+You can post text, images, videos, and PDF carousels. Check out best practices and troubleshooting FAQs:
+https://help.blotato.com/platforms/linkedin
+
+## Facebook
+You can post text, images, regular videos, and reels. Check out best practices and troubleshooting FAQs
+https://help.blotato.com/platforms/facebook
+
+## Instagram
+You can post images, reels, stories, and slideshows. Check out best practices and troubleshooting FAQs:
+https://help.blotato.com/platforms/instagram
+
+## Twitter
+You can post text, images, and videos. You can post a long-form thread by clicking "Show Advanced Settings". Check out best practices and troubleshooting FAQs:
+https://help.blotato.com/platforms/twitter
+
+## Threads
+You can post text, images, and videos. You can post a long-form thread by clicking "Show Advanced Settings". Check out best practices and troubleshooting FAQs:
+https://help.blotato.com/platforms/threads
+
+## Bluesky
+You can post text, images, and videos. You can post a long-form thread by clicking "Show Advanced Settings". Check out best practices and troubleshooting FAQs:
+https://help.blotato.com/platforms/bluesky
+
+## Youtube
+You can post Youtube shorts and long-form videos. You don't need to do anything. Youtube automatically posts Shorts if your video is <2 minutes and 9:16 aspect ratio.
+
+Brand new Youtube accounts are limited to a few posts per day via API. You can still upload manually through Youtube website. This restriction is directly from Youtube and is gradually lifted as you post consistently.
+
+Check out best practices and troubleshooting FAQs:
+https://help.blotato.com/platforms/youtube
+
+## Pinterest
+You can post image and video pins.
+
+Pinterest Board ID:
+Go to Blotato, create a Pinterest post, click Publish, and you'll see your board IDs. Copy board ID to here.
+
+Check out best practices and troubleshooting FAQs:
+https://help.blotato.com/platforms/pinterest
+
+## Need More Help?
+Log into Blotato.com
+Click support button in bottom right corner.
+Sabrina Ramonov🍄 replies within 24 hours most weekdays.
