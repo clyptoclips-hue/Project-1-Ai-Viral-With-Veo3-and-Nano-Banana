@@ -1,3 +1,7 @@
+<img width="1019" height="705" alt="image" src="https://github.com/user-attachments/assets/155788ed-9ee0-4446-b637-cd48a9b004ed" />
+
+
+
 Generate AI Viral Videos with VEO3 and Auto-Publish to TikTok
 Who is this for?
 This workflow is for content creators, marketers, and social media managers who want to consistently produce viral-style short videos and publish them automatically to TikTok — without manual editing or uploading.
